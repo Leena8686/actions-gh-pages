@@ -1,11 +1,11 @@
 {
   "name": "actions-github-pages",
-  "version": "3.9.3",
+  "version": "4.0.0",
   "description": "GitHub Actions for GitHub Pages",
   "main": "lib/index.js",
   "engines": {
-    "node": ">=v16.19.0",
-    "npm": ">=8.0.0"
+    "node": ">=v20.11.0",
+    "npm": ">=10.2.4"
   },
   "scripts": {
     "postinstall": "npx husky install",
